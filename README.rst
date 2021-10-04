@@ -6,8 +6,8 @@ Python Video Thumbnail
 .. image:: https://img.shields.io/pypi/v/python_video_thumbnail.svg
         :target: https://pypi.python.org/pypi/python_video_thumbnail
 
-.. image:: https://img.shields.io/travis/mikolajkosmal/python_video_thumbnail.svg
-        :target: https://travis-ci.com/mikolajkosmal/python_video_thumbnail
+.. image:: https://app.travis-ci.com/mikolajkosmal/python-video-thumbnail.svg?token=UHo6vxmHpzShZwMdRr5d&branch=main
+    :target: https://app.travis-ci.com/mikolajkosmal/python-video-thumbnail
 
 
 Python package for capturing frames from video.
